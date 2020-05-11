@@ -10,7 +10,7 @@ public class TurnosViewModel extends ViewModel {
 
     public TurnosViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is turnos fragment prueba");
+        mText.setValue("prueba");
     }
 //hola //
 
